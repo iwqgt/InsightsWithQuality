@@ -1,5 +1,6 @@
 # Insights With Quality
-![Creador](assets/Foto Cedula.jpg)
+<img src="assets/Foto Cedula.jpg" alt="Portada" width="400"/>
+
 
 ### Education
 
